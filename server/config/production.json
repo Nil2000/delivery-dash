@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://admin-nilabhra:Test123@blogcluster.wlq6y.mongodb.net/test?retryWrites=true&w=majority",
+  "JWT_SECRET": "thisisoopsproject"
+}

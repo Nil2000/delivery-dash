@@ -1,0 +1,5 @@
+{
+  "mongoURI": "mongodb+srv://admin-nilabhra:Test123@blogcluster.wlq6y.mongodb.net/test?retryWrites=true&w=majority",
+  "JWT_SECRET": "thisisoopsproject",
+  "OTP_Pass" : "deliverdash@06530081"
+}
